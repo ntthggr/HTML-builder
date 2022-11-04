@@ -13,7 +13,7 @@ fs.readdir(path.join(__dirname, 'secret-folder'), { withFileTypes: true }, (err,
         fs.stat(pathToFile, (err, stats) => {
           if (err) console.log(err.message);
           else {
-            const fileSize = Number(stats.size / 2000).toFixed(3) + 'kB';
+            const fileSize = Number(stats.size / 1024).toFixed(3) + 'kB';
             result.push(fileName, extName, fileSize);
             console.log(result.join(' - '));
           }
