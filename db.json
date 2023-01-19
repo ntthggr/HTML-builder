@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bannerlord",
+    "price": 100,
+    "url": "img/games/bannerlord.jpg"
+  },
+  {
+    "name": "Children of Morta",
+    "price": 200,
+    "url": "img/games/children-of-morta.jpg"
+  },
+  {
+    "name": "Cities Skylines",
+    "price": 300,
+    "url": "img/games/cities-skylines.jpg"
+  },
+  {
+    "name": "Darktide",
+    "price": 400,
+    "url": "img/games/darktide.jpg"
+  },
+  {
+    "name": "DayZ",
+    "price": 500,
+    "url": "img/games/dayz.jpg"
+  },
+  {
+    "name": "Destiny 2",
+    "price": 600,
+    "url": "img/games/destiny2.jpg"
+  }
+]
