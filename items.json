@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone SE",
+    "imageUrl": "../img/iphonese.png",
+    "price": 35990,
+    "type": [0],
+    "size": [64, 128, 256],
+    "category": 0
+  },
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "imageUrl": "../img/iphone14.png",
+    "price": 48000,
+    "type": [0, 1],
+    "size": [128, 256, 512],
+    "category": 1
+  }
+]
