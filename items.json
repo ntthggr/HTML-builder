@@ -3,18 +3,46 @@
     "id": 0,
     "name": "iPhone SE",
     "imageUrl": "../img/iphonese.png",
-    "price": 35990,
+    "price": 30999,
     "type": [0],
     "size": [64, 128, 256],
     "category": 0
   },
   {
     "id": 1,
-    "name": "iPhone 14",
-    "imageUrl": "../img/iphone14.png",
-    "price": 48000,
+    "name": "iPhone 12",
+    "imageUrl": "../img/iphone12.png",
+    "price": 41990,
+    "type": [0],
+    "size": [64, 128, 256],
+    "category": 0
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13",
+    "imageUrl": "../img/iphone13.png",
+    "price": 41990,
     "type": [0, 1],
     "size": [128, 256, 512],
+    "category": 0
+  },
+  {
+    "id": 3,
+    "name": "iPhone 14",
+    "imageUrl": "../img/iphone14.png",
+    "price": 56000,
+    "type": [0, 2],
+    "size": [128, 256, 512],
+    "category": 0
+  },
+  {
+    "id": 4,
+    "name": "iPhone 14 Pro",
+    "imageUrl": "../img/iphone14pro.png",
+    "price": 69990,
+    "type": [0, 3],
+    "size": [128, 256, 512, 1024],
     "category": 1
   }
 ]
+
